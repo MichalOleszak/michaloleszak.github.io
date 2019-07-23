@@ -7,8 +7,10 @@
   margin-left: 30px;
 }
 
-table, th, td {
-  border: 0px solid white;
+
+.table.is-borderless {
+  td, th
+    border: 0
 }
 
 .about-icon {
