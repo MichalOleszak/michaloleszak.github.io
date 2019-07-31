@@ -25,6 +25,7 @@ description:
 navbar-links:
   Home: "index"
   About Me: "aboutme"
+  Courses & Certificates: "certificates"
 #   Resources:
 #     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #     - Learn markdown: "http://www.markdowntutorial.com/"
