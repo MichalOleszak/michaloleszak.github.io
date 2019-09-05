@@ -25,7 +25,11 @@ description:
 navbar-links:
   Home: "index"
   About Me: "aboutme"
+  Projects:
+    - Posterior Mean Panel Predictor: "https://www.rdocumentation.org/packages/pmpp/versions/0.1.0"
+    - footballpredict AI: "https://michaloleszak.shinyapps.io/footballpredict/"
   Courses & Certificates: "certificates"
+  Blog: "blog"
 #   Resources:
 #     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #     - Learn markdown: "http://www.markdowntutorial.com/"
