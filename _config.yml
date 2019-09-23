@@ -25,13 +25,12 @@ description:
 navbar-links:
   Home: "index"
   About Me: "aboutme"
+  Courses & Certificates: "certificates"`
+  Blog: "blog"
+  CV: "cv"
   Projects:
     - Posterior Mean Panel Predictor: "https://www.rdocumentation.org/packages/pmpp/versions/0.1.0"
     - footballpredict AI: "https://michaloleszak.shinyapps.io/footballpredict/"
-  Blog: "blog"
-  CV: "cv"
-  Courses & Certificates: "certificates"
-
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
