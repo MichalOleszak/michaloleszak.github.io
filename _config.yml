@@ -25,7 +25,7 @@ description:
 navbar-links:
   Home: "index"
   About Me: "aboutme"
-  Courses & Certificates: "certificates"`
+  Courses & Certificates: "certificates"
   Blog: "blog"
   CV: "cv"
   Projects:
