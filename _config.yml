@@ -26,7 +26,7 @@ navbar-links:
   Home: "index"
   About Me: "aboutme"
   Projects:
-    - Posterior Mean Panel Predictor: "https://www.rdocumentation.org/packages/pmpp/versions/0.1.0"
+    - Posterior Mean Panel Predictor: "https://www.rdocumentation.org/packages/pmpp"
     - footballpredict AI: "https://michaloleszak.shinyapps.io/footballpredict/"
   Blog: "blog"
   Courses & Certificates: "certificates"
