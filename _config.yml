@@ -27,7 +27,7 @@ navbar-links:
   About Me: "aboutme"
   Projects:
     - Posterior Mean Panel Predictor: "https://www.rdocumentation.org/packages/pmpp"
-    - footballpredict AI: "https://michaloleszak.shinyapps.io/footballpredict/"
+    - tsaugur: "https://github.com/MichalOleszak/tsaugur"
   Blog: "blog"
   Courses & Certificates: "certificates"
 
