@@ -1,4 +1,5 @@
-table {
-  border: "0";
-  background: transparent;
+table tr th {
+  border: 0px;
+  padding: 15px;
+  background-color: transparent;
 }
