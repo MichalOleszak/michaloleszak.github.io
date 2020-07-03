@@ -25,9 +25,7 @@ description:
 navbar-links:
   Home: "index"
   About Me: "aboutme"
-  Projects:
-    - Posterior Mean Panel Predictor: "https://www.rdocumentation.org/packages/pmpp"
-    - tsaugur: "https://github.com/MichalOleszak/tsaugur"
+  Projects: "projects"
   Blog: "blog"
   Courses & Certificates: "certificates"
 
