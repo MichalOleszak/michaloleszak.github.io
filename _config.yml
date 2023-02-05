@@ -26,8 +26,8 @@ navbar-links:
   Home: "index"
   About Me: "aboutme"
   Blog: "blog"
-  Software: "software"
-  Teaching & Speaking: "teaching_speaking"
+  # Software: "software"
+  Authoring: "authoring"
   Certificates: "certificates"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -105,7 +105,7 @@ share-links-active:
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "G-Z0SS9HSEE7"
 
 # Google Tag Manager ID
 #gtm: ""
