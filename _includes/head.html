@@ -15,7 +15,6 @@
 
   {% include gtag.html %}
   {% include gtm_head.html %}
-  {% include google_analytics.html %}
 
   {% if layout.common-ext-css %}
     {% for css in layout.common-ext-css %}
@@ -31,7 +30,7 @@
 
   {% if layout.common-googlefonts %}
     {% for font in layout.common-googlefonts %}
-      <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}" />
+      <link rel="stylesheet" href="//fonts.googleapis.com/css2?family={{ font }}&display=swap" />
     {% endfor %}
   {% endif %}
 
@@ -49,9 +48,11 @@
 
   {% if page.googlefonts %}
     {% for font in page.googlefonts %}
-      <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}" />
+      <link rel="stylesheet" href="//fonts.googleapis.com/css2?family={{ font }}&display=swap" />
     {% endfor %}
   {% endif %}
+
+  <link rel="icon" href="{{ '/img/119_circled.png' | relative_url }}" type="image/png">
 
     <!-- Facebook OpenGraph tags -->
   {% if site.fb_app_id %}

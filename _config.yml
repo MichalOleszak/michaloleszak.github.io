@@ -23,13 +23,13 @@ description:
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "index"
   About Me: "aboutme"
-  Consulting: "store"
-  Blog: "blog"
-  # Software: "software"
   Authoring: "authoring"
-  # Learning: "learning"
+  Blog: "blog"
+  Consulting: "store"
+  Beyond Work:
+    - Photography: "https://michaloleszak.com/photography"
+    - Highest Peaks: "https://michaloleszak.github.io/EuropeHighestPeaks/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -76,7 +76,7 @@ social-network-links:
   email: "oleszak.michal@gmail.com"
 #  facebook: daattali
   github: michaloleszak
-  twitter: MichalOleszak
+#  twitter: MichalOleszak
 #  reddit: yourname
   linkedin: michal-oleszak
 #  xing: yourname
@@ -92,7 +92,7 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
+  # twitter: true
   facebook: true
   linkedin: true
 
@@ -105,8 +105,8 @@ share-links-active:
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
 gtag: "G-Z0SS9HSEE7"
 
-# Fill in your Google Analytics ID to track your website using GA
-google_analytics: "G-Z0SS9HSEE7"
+# Legacy Google Analytics (disabled - using gtag above)
+# google_analytics: ""
 
 # Google Tag Manager ID
 #gtm: ""
