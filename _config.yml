@@ -29,7 +29,7 @@ navbar-links:
   Consulting: "store"
   Beyond Work:
     - Photography: "https://michaloleszak.com/photography"
-    - Highest Peaks: "https://michaloleszak.github.io/EuropeHighestPeaks/"
+    - Europe's Highest Peaks: "https://michaloleszak.github.io/EuropeHighestPeaks/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
